@@ -1,0 +1,79 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+# Python cache
+__pycache__/
+__resources__/
+
+# npm
+npm-debug.log*
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*~
+
+# Environment and configuration files
+config.php
+config.py
+.env
+.env.production
+.env.development
+Pipfile
+Pipfile.lock
+config.js
+
+# Vendor files
+vendor/
+
+# AWS configuration
+.aws/
+
+# Security keys
+.key
+
+# WordPress configuration
+wp-config.php
+
+# Database configuration
+database.yml
+
+# My Notes
+_notes.md
+04_commands.md
+05_database.md
+
+# Docker files
+docker-compose.yml
