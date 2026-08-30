@@ -234,4 +234,4 @@ MIT License
 
 ## Author
 
-Chris Farrugia — [chrisfarrugia.dev](https://chrisfarrugia.dev)
+Krystian Surowiec[Linkedin](https://www.linkedin.com/in/krystian-surowiec-04a671402/)
