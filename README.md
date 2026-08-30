@@ -1,7 +1,6 @@
 # teltonika-codec8-cli
 
-**CLI tool to parse Teltonika Codec 8 and Codec 8 Extended packets**  
-[GitHub: chrisfarrugia.dev/teltonika-codec8-cli](https://chrisfarrugia.dev/teltonika-codec8-cli)
+**CLI tool to parse Teltonika Codec 8 and Codec 8 Extended packets** 
 
 ---
 
